@@ -13,7 +13,7 @@ This repository is being updated.
 2. Training log file
 3. Visualization result
 
-## We are sorry that the following data are not provided due to the commercial copyright agreement
+## We are sorry that partial data is not provided due to commercial copyright agreement
 1. Original and pre-processed data of SubwayBJ dataset
 2. Original and pre-processed data of TaxiBJ dataset
 
