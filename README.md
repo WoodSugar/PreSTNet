@@ -1,2 +1,2 @@
 # PreSTNet
-Source Code the PreSTNet
+Source Code of the PreSTNet
