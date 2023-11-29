@@ -1,5 +1,5 @@
 # PreSTNet
-Source Code of the PreSTNet (Pre-Trained Spatio-Temporal Network for Traffic Forecasting).
+Source Code of the PreSTNet (Pre-trained Spatio-Temporal Network for Traffic Forecasting).
 
 This repository is being updated. 
 
@@ -16,3 +16,6 @@ This repository is being updated.
 ## We are sorry that the following data cannot be provided due to the commercial copyright agreement
 1. Original and pre-processed data of SubwayBJ dataset
 2. Original and pre-processed data of TaxiBJ dataset
+
+## Acknowledgement
+We appreciate the EasyTorch and BasicTS toolboxes to support this work.
