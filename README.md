@@ -8,7 +8,7 @@ This repository is being updated.
 2. Pre-trained backbone on three evaluation datasets (SubwayBJ, TaxiBJ, and PeMS03)
 3. Pre-processed data of the open-source PeMS03 dataset (saved on Google Drive)
 
-## More details is on the way including
+## More details is on the way
 1. Model structure
 2. Training log file
 3. Visualization result
