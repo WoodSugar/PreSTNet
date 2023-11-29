@@ -1,0 +1,15 @@
+{
+    "folder": "dataset/MySubway/",
+    "graph_file": "graph.npy",
+    "flow_file": "flow.npy",
+    "num_nodes": 278,
+    "divide_days": [15, 7, 7],
+    "one_day_range": [6, 22],
+    "time_interval": 10,
+    "merge_num": 1,
+    "input_dim": 2,
+    "src_len": 6,
+    "trg_len": 6,
+    "pretrain_src_len": 288,
+    "pretrain_trg_len": 6
+}

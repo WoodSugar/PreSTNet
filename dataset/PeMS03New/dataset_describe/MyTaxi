@@ -1,0 +1,15 @@
+{
+    "folder": "dataset/MyTaxi/",
+    "graph_file": "graph.npy",
+    "flow_file": "flow.npy",
+    "num_nodes": 300,
+    "divide_days": [32, 14, 14],
+    "one_day_range": [6, 22],
+    "time_interval": 20,
+    "merge_num": 1,
+    "input_dim": 1,
+    "src_len": 6,
+    "trg_len": 6,
+    "pretrain_src_len": 144,
+    "pretrain_trg_len": 6
+}
