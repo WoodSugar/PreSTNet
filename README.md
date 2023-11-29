@@ -1,5 +1,6 @@
 # PreSTNet
-Source Code of the PreSTNet
+Source Code of the PreSTNet (Pre-Trained Spatio-Temporal Network for Traffic Forecasting).
+
 This repository is being updated. 
 
 ## We have provided the following information for reproducibility
