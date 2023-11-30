@@ -1,7 +1,6 @@
 # PreSTNet
 Source Code of the PreSTNet (Pre-trained Spatio-Temporal Network for Traffic Forecasting).
-
-This repository is being updated. 
+This work has been submitted to a journal, and the all of the source codes are being updated. 
 
 ## We have provided the following information for reproducibility
 1. Hyper-parameter settings in pre-training and fine-tuning phases
