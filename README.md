@@ -1,5 +1,6 @@
-# PreSTNet
-Source Code of the [PreSTNet](https://www.sciencedirect.com/science/article/pii/S1566253524000198) (Pre-trained Spatio-Temporal Network for Traffic Forecasting).
+# PreSTNet: Pre-trained Spatio-Temporal Network for Traffic Forecasting, Information Fusion.
+
+Source Code of the [PreSTNet](https://www.sciencedirect.com/science/article/pii/S1566253524000198).
 
 This work has been accepted in Information Fusion, and the all of the source codes are being updated. 
 
