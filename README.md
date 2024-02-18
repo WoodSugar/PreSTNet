@@ -23,7 +23,7 @@ If you find the paper or this repository is helpful, please cite it with the fol
 ## We have provided the following information for reproducibility
 1. Hyper-parameter settings in pre-training and fine-tuning phases
 2. Pre-trained backbone on three evaluation datasets (SubwayBJ, TaxiBJ, and PeMS03)
-3. Pre-processed data of the open-source PeMS03 dataset (saved on Google Drive)
+3. Pre-processed data of the open-source PeMS03 dataset (saved on [Google Drive](https://drive.google.com/drive/folders/1z_qw2QuK2Pq92yVX-SbAL6UD48LjLGKC?usp=drive_link))
 4. Detailed model structure under the framework of PyTorch, [EasyTorch](https://github.com/cnstark/easytorch), and [BasicTS](https://github.com/zezhishao/BasicTS).
 
 ## More details is on the way
