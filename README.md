@@ -27,8 +27,9 @@ If you find the paper or this repository is helpful, please cite it with the fol
 4. Detailed model structure under the framework of PyTorch, [EasyTorch](https://github.com/cnstark/easytorch), and [BasicTS](https://github.com/zezhishao/BasicTS).
 
 ## More details is on the way
-1. Training log file
-2. Visualization result
+1. Running guidance (e.g., python environment, pre-training and fine-tuning scripts).
+2. Detailed results of several experiments.
+3. Visualization result.
 
 ## We are sorry that partial data is not provided due to commercial copyright agreement
 1. Original and pre-processed data of SubwayBJ dataset
