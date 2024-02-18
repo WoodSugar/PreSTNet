@@ -1,5 +1,7 @@
 # PreSTNet: Pre-trained Spatio-Temporal Network for Traffic Forecasting, Information Fusion.
 
+![image](https://github.com/WoodSugar/PreSTNet/blob/main/img/model.png)
+
 Source Code of the [PreSTNet](https://www.sciencedirect.com/science/article/pii/S1566253524000198).
 
 This work has been accepted in Information Fusion, and the all of the source codes are being updated. 
