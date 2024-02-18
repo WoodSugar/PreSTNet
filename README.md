@@ -22,7 +22,7 @@ If you find the paper or this repository is helpful, please cite it with the fol
 1. Hyper-parameter settings in pre-training and fine-tuning phases
 2. Pre-trained backbone on three evaluation datasets (SubwayBJ, TaxiBJ, and PeMS03)
 3. Pre-processed data of the open-source PeMS03 dataset (saved on Google Drive)
-4. Detailed model structure with PyTorch, EasyTorch, and BasicTS.
+4. Detailed model structure under the framework of PyTorch, [EasyTorch](https://github.com/cnstark/easytorch), and [BasicTS](https://github.com/zezhishao/BasicTS).
 
 ## More details is on the way
 1. Training log file
