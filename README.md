@@ -5,7 +5,7 @@ This work has been accepted in Information Fusion, and the all of the source cod
 
 If you find the paper or this repository is helpful, please cite it with the following format:
 
-'''
+```
 @article{fang-prestnet,
   title = {{{PreSTNet}}: {{Pre-trained}} Spatio-Temporal Network for Traffic Forecasting},
   author = {Fang, Shen and Ji, Wei and Xiang, Shiming and Hua, Wei},
@@ -15,7 +15,7 @@ If you find the paper or this repository is helpful, please cite it with the fol
   pages = {102241},
   issn = {1566-2535}
 }
-'''
+```
 
 ## We have provided the following information for reproducibility
 1. Hyper-parameter settings in pre-training and fine-tuning phases
